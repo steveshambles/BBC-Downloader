@@ -219,11 +219,11 @@ def visit_blog():
 
 def visit_github():
     """Visit Github page for latest source code."""
-    webbrowser.open('https://github.com/steveshambles/BBC-Radio-show-downloader')
+    webbrowser.open('https://github.com/steveshambles/BBC-Downloader')
 
 def online_help():
     """Step by step online tutorial on using this app."""
-    webbrowser.open('https://stevepython.wordpress.com/bbc-radio-downloader-help')
+    webbrowser.open('https://stevepython.wordpress.com/bbc-downloader-help-page')
 
 def get_ffmpeg():
     """Visit ffmpeg website for install."""
