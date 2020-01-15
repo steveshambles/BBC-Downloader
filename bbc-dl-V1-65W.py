@@ -1,4 +1,4 @@
-"""BBC Radio Downloader V1.65W
+"""BBC Downloader V1.65W
 
 By Steve Shambles Nov 2019 and Jan 2020
 stevepython.wordpress.com
